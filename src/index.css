@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html,
+body,
+#root,
+.max-height {
+  height: 100%;
+}
+
+.spinner {
+  position: absolute !important;
+  top: 50%;
+  left: 50%;
+}
